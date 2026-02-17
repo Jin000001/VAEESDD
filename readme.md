@@ -5,13 +5,13 @@ In today's digital world, the generation of vast amounts of streaming data in va
 ## Paper
 You can get a free copy of the accepted version from https://authors.elsevier.com/sd/article/S0925-2312(26)00458-3 or https://arxiv.org/html/2602.12976v1
 
-##Instructions
+## Instructions
 Please check the “instructions.txt” file.
 
-##Requirements
+## Requirements
 Please check the “requirements.txt” file.
 
-##Citation
+## Citation
 If you have found our paper and/or part of our code and/or datasets useful, please cite our work as follows:
 Jin Li, Kleanthis Malialis, Christos G. Panayiotou, Marios M. Polycarpou, Drift-aware variational autoencoder-based anomaly detection with two-level ensembling, Neurocomputing, 2026, 133061, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2026.133061.
 
